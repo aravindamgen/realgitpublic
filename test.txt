@@ -1,2 +1,3 @@
 hello git
 edited in terminal
+edited in gui
